@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MF.DataAccess", "MF.DataAcc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MF.Business", "MF.Business\MF.Business.csproj", "{5A1321FF-CBEE-4EC9-920C-F9F157569305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MF.WebFormUI", "MF.WebFormUI\MF.WebFormUI.csproj", "{27E0A845-5E2E-4D95-B31C-B712E055CABA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{5A1321FF-CBEE-4EC9-920C-F9F157569305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A1321FF-CBEE-4EC9-920C-F9F157569305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A1321FF-CBEE-4EC9-920C-F9F157569305}.Release|Any CPU.Build.0 = Release|Any CPU
-		{27E0A845-5E2E-4D95-B31C-B712E055CABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27E0A845-5E2E-4D95-B31C-B712E055CABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27E0A845-5E2E-4D95-B31C-B712E055CABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27E0A845-5E2E-4D95-B31C-B712E055CABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
